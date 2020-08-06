@@ -3,7 +3,7 @@ This repository contains codes, weights, documentations that are necessary for v
 The model is built on top of nanonets_object_tracking repo, which is built on top of the original deep sort module
 
 
-![vehicle_tracking_demo](https://j.gifs.com/JywjLl.gif)
+![vehicle_tracking_demo](https://gifs.com/gif/vehicle-tracking-demo-2xBA6P)
 
 
 # Minimum 
