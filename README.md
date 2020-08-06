@@ -1,15 +1,19 @@
 # Vehicle Tracking
+
+The goal of this project is to track vehicles given the traffic video using deep learning based methods, affinity calculation, and some association 
+
 This repository contains codes, weights, documentations that are necessary for vehicle tracking based on traffic video.
 The model is built on top of nanonets_object_tracking repo, which is built on top of the original deep sort module
+
+The model is built on top of Nanonets_object_tracking repo, which uses DeepSORT as baseline code, and YOLOv3 is used for detection part. 
+
 
 
 ![vehicle_tracking_demo](/readmes/demo.gif)
 
 
-# Minimum 
-
-
-# Installation
+## Installation
+For installation instruction, please refer to [INSTALL.md]()
 
 
 
