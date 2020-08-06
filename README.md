@@ -1,9 +1,9 @@
-## Vehicle Tracking
+# Vehicle Tracking
 This repository contains codes, weights, documentations that are necessary for vehicle tracking based on traffic video.
 The model is built on top of nanonets_object_tracking repo, which is built on top of the original deep sort module
 
 
-![vehicle_tracking_demo](https://j.gifs.com/2xBA6P.gif)
+![vehicle_tracking_demo](/readmes/demo.gif)
 
 
 # Minimum 
