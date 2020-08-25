@@ -3,8 +3,8 @@
 This is a computer vision and deep learning based multiple-vehicle tracking model, which is still under development. 
 The ultimate goal of this project is to enable vehicle tracking at the edge of smart sensor network. 
 and expand the model at the edge of multiple nodes.
-This project is built on top of ![Nanonets Object Tracking](https://github.com/abhyantrika/nanonets_object_tracking), which is built on top of ![DeepSORT](https://github.com/nwojke/deep_sort).
-This tracking model is a typical tracking-by-detection model, and for detection part, ![YOLOv3](https://github.com/nandinib1999/object-detection-yolo-opencv) is used.
+This project is built on top of *[Nanonets Object Tracking](https://github.com/abhyantrika/nanonets_object_tracking), which is built on top of *[DeepSORT](https://github.com/nwojke/deep_sort).
+This tracking model is a typical tracking-by-detection model, and for detection part, *[YOLOv3](https://github.com/nandinib1999/object-detection-yolo-opencv) is used.
 
 
 ![vehicle_tracking_demo](/readmes/result_YT.gif)
