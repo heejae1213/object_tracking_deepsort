@@ -14,7 +14,7 @@ This tracking model is a typical tracking-by-detection model, and for detection 
 
 
 ![vehicle_tracking_demo](/readmes/result_YT.gif)
-Tracking with the ![random traffic video from YouTube](https://youtu.be/UM0hX7nomi8)
+Tracking with the [random traffic video from YouTube](https://youtu.be/UM0hX7nomi8)
 
 
 
@@ -99,7 +99,7 @@ Since, the primary objective is to track objects, We assume that the detections 
 
 ## Structure
 
-
+![system_flow](/readmes/system_flow.PNG)
 
 
 
