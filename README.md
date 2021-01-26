@@ -18,10 +18,8 @@ Tracking with the [random traffic video from YouTube](https://youtu.be/UM0hX7nom
 
 
 
-The goal of this project is to track vehicles given the traffic video using deep learning based methods, affinity calculation, and some association 
-
 This repository contains codes, weights, documentations that are necessary for vehicle tracking based on traffic video.
-The model is built on top of nanonets_object_tracking repo, which is built on top of the original deep sort module
+
 
 The model is built on top of Nanonets_object_tracking repo, which uses DeepSORT as baseline code, and YOLOv3 is used for detection part. 
 
