@@ -29,13 +29,13 @@ The model is built on top of Nanonets_object_tracking repo, which uses DeepSORT 
 
 ![vehicle_tracking_demo](/readmes/demo.gif)
 
-## How to run
+# How to run
 **Folder Description**
-* detection: Python based YOLOv3 Inference Code. Creates bounding box information.
-* det: Bounding box information is saved in this folder. txt files.
-* ckpts: Feature Extractor model checkpoints are saved in this folder. You can either train your own Feature Extractor or use ckpts in this folder to extract features from images.
-* feature extractor: Siamese CNN code. It can be used for building a featrue extractor.
-* deep_sort: original DeepSORT code.
+* **detection**: Python based YOLOv3 Inference Code. Creates bounding box information.
+* **det**: Bounding box information is saved in this folder. txt files.
+* **ckpts**: Feature Extractor model checkpoints are saved in this folder. You can either train your own Feature Extractor or use ckpts in this folder to extract features from images.
+* **feature extractor**: Siamese CNN code. It can be used for building a featrue extractor.
+* **deep_sort**: original DeepSORT code.
 
 **How to test run?**
 1. Have the video you want to perform tracking in the ```videos``` folder.
